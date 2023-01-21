@@ -2,12 +2,14 @@
 
 Solution of Problem statement 1 (L&T EduTech Hackathon at SHAASTRA IITM)
 
+# Metrics for Test data
 Precision for test data :0.9950000047683716
 
 Recall for test data :0.9950000047683716
 
 F1 SCORE for test data :0.994999885559082
 
+# Metrics for Validation data
 Precision for valid data :0.9449999928474426
 
 Recall for valid data :0.9449999928474426
